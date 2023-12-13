@@ -55,6 +55,7 @@ public class SaveNoteServlet extends HttpServlet {
 			PrintWriter out = response.getWriter();
 			out.print("<h1 style='text-align:center;'> note is added successfullt </h1>");
 			out.print("<h1 style='text-align:center;'> <a href='all_notes.jsp'> view all notes</a>  </h1>");
+			out.print("<div style='text-align:center;'><img src='image2/thumbs-up.png' alt='Image'></div>");
 			
 			
 			
