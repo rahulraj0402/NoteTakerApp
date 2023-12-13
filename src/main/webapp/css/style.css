@@ -1,0 +1,11 @@
+.purple {
+	background-color: #9C27B0;
+}
+
+.custom-blue-btn {
+    background-color: blue;
+    color: white; /* Set text color to contrast with the background */
+    /* Add any additional styling as needed */
+}
+
+
